@@ -1,0 +1,13 @@
+﻿Governorate_Id,Governorate,Region,Is_Urban,In_Unemployment_Data
+1,Alexandria,North Coast,1,1
+2,Assiut,Upper Egypt,0,1
+3,Beheira,North Coast,0,0
+4,Cairo,Greater Cairo,1,1
+5,Dakahlia,Delta,0,1
+6,Gharbia,Delta,0,1
+7,Giza,Greater Cairo,1,1
+8,Minya,Upper Egypt,0,1
+9,Monufia,Delta,0,0
+10,Qalyubia,Greater Cairo,0,1
+11,Sharqia,Delta,0,1
+12,Sohag,Upper Egypt,0,1
